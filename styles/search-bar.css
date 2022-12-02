@@ -1,0 +1,10 @@
+.search-bar {
+  background: #F5F5F5;
+  border: none;
+  border-radius: 16px;
+  color: #A2A2A2;
+  width: 20%;
+  height: 30px;
+  position: relative;
+  left: 2%;
+}

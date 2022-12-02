@@ -1,0 +1,19 @@
+.star-wars-section h2{
+  color: #464646;
+  font-size: 1.7rem;
+}
+.star-wars-products {
+  display: flex;
+  justify-content: center;
+}
+.star-wars-section input {
+  position: relative;
+  font-size: .83rem;
+  font-weight: 700;
+  left: 83%;
+  height: 2rem;
+  width: 7rem;
+  background-color: #fff;
+  border: none;
+  color: #2A7AE4;
+}

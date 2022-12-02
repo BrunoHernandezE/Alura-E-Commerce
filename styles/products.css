@@ -1,0 +1,11 @@
+.products {
+  display: flex;
+  flex-direction: column;
+}
+
+.videogames-products {
+  display: flex;
+}
+.gadgets-products {
+  display: flex;
+}

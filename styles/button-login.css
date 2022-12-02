@@ -1,0 +1,11 @@
+.button-login {
+  position: relative;
+  background: #FFF;
+  border: none;
+  border: 2px solid #2A7AE4;
+  color: #2A7AE4;
+  cursor: pointer;
+  height: 45px;
+  width: 10%;
+  left: 50%;
+}
