@@ -1,11 +1,38 @@
+main {
+  display: flex;
+  justify-content: center;
+}
 .products {
+  height: 306px;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+.products-section {
   display: flex;
   flex-direction: column;
+  width: 1136px;
+  align-content: center;
 }
-
-.videogames-products {
+.header-section {
   display: flex;
+  justify-content: space-between;
+  margin: 5rem 0 .7rem 0;
 }
-.gadgets-products {
-  display: flex;
+.header-section h2{
+  position: relative;
+  color: #464646;
+  font-size: 1.7rem;
+  left: -1.2rem;
+}
+.header-section button {
+  position: relative;
+  background-color: #fff;
+  color: #2A7AE4;
+  cursor: pointer;
+  border: none;
+  right: -1.3rem;
+  width: 8%;
+  height: 2.5rem;
+  font-size: 1rem;
 }

@@ -1,0 +1,14 @@
+.product {
+  line-height: 1.5rem;
+}
+.product-name {
+  font-size: .85rem;
+}
+.product-price {
+  font-weight: 600;
+}
+.product-link {
+  text-decoration: none;
+  color: #2a7ae4;
+  font-weight: 500;
+}

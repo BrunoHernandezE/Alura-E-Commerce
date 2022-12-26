@@ -1,0 +1,75 @@
+footer {
+  display: flex;
+  background-color: #EAF2FD;
+  height: 470px;
+}
+
+.footer-logo {
+  padding: 0 0 15% 20%;
+  display: flex;
+  align-items: center;
+}
+.question-section {
+  padding: 2% 0 0 5%;
+}
+
+.question-section li {
+  font-size: 1.3rem;
+  list-style: none;
+  line-height: 3.5rem;
+}
+.question-section li a {
+  color: #464646;
+  text-decoration: none;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 3.8rem 0 0 6rem;
+}
+form h4 {
+  color: #464646;
+}
+.form-name {
+  padding-left: 5px;
+  width: 560px;
+  height: 56px;
+  border-style: none;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px 1px #A2A2A2;
+}
+.form-name::placeholder {
+  color: #A2A2A2;
+}
+.form-message {
+  border-style: none;
+  border-radius: 3px;
+  box-shadow: 1px 1px 0 1px #A2A2A2;
+  padding-left: 5px;
+  height: 82px;
+}
+.form-message::placeholder {
+  color: #A2A2A2; 
+}
+.form-button {
+  width: 144px;
+  height: 51px;
+  border-style: none;
+  background-color: #2A7AE4;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 100;
+  cursor: pointer;
+}
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  height: 3rem;
+}
+.contact a {
+  text-decoration: none;
+}
