@@ -1,4 +1,4 @@
-const logo = document.querySelector(".logo");
+const logo = document.querySelector(".controller-logo");
 logo.addEventListener("click", () => {
   window.location.href = "../pages/items-page.html"
 })

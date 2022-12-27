@@ -1,7 +1,10 @@
 .logo {
-  padding: 25px 0 0 120px;
+  padding: 0 0 0 120px;
   display: flex;
   align-items: center;
+  height: 114px;
+}
+.controller-logo {
   cursor: pointer;
 }
 /* @media (min-width: 760px) {

@@ -1,0 +1,11 @@
+.admin-button {
+  background-color: #fff;
+  border: 1px solid #2A7AE4;
+  color: #2A7AE4;
+  cursor: pointer;
+  font-size: .9rem;
+  right: 10rem;
+  position: absolute;
+  height: 51px;
+  width: 183px;
+}
