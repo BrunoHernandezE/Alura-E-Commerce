@@ -1,6 +1,6 @@
 const logo = document.querySelector(".controller-logo");
 logo.addEventListener("click", () => {
-  window.location.href = "../pages/items-page.html"
+  window.location.href = "../index.html"
 })
 
 const loginButton = document.querySelector(".login-button");
